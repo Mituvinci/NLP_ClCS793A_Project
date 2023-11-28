@@ -1,0 +1,4 @@
+Search Query: biological sequence analysis
+Repository name: mz2/imotifs
+Repository URL: https://github.com/mz2/imotifs
+Description: Intuitive biological sequence motif viewer/analysis environment for OS X

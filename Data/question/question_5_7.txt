@@ -1,0 +1,4 @@
+Search Query: metagenomics data analysis
+Repository name: yuezhengfu/CNPS.cycle
+Repository URL: https://github.com/yuezhengfu/CNPS.cycle
+Description: This is an R package for element cycle analysis using metagenomic data.

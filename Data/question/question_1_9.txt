@@ -1,0 +1,4 @@
+Search Query: assembly transcript RNA-seq
+Repository name: akcorut/SnakeRnaSpades
+Repository URL: https://github.com/akcorut/SnakeRnaSpades
+Description: A snakemake workflow for performing de novo transcriptome assembly, quality assessment and transcript quantification.

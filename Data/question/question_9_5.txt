@@ -1,0 +1,4 @@
+Search Query: molecular docking simulations
+Repository name: luisgarreta/dockingBCL2
+Repository URL: https://github.com/luisgarreta/dockingBCL2
+Description: Data and scripts for molecular docking and molecular dynamics simulations analysis of Bcl-xL protein in complex with Genistein compund

@@ -1,0 +1,4 @@
+Search Query: biological sequence analysis
+Repository name: solonas13/aw
+Repository URL: https://github.com/solonas13/aw
+Description: AW: computing Avoided (or Overabundant) Words for biological sequence analysis

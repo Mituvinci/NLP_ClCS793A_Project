@@ -1,0 +1,4 @@
+Search Query: phylogenetic analysis
+Repository name: edgardomortiz/vcf2phylip
+Repository URL: https://github.com/edgardomortiz/vcf2phylip
+Description: Convert SNPs in VCF format to PHYLIP, NEXUS, binary NEXUS, or FASTA alignments for phylogenetic analysis

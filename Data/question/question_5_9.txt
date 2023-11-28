@@ -1,0 +1,4 @@
+Search Query: metagenomics data analysis
+Repository name: metageni/SUPER-FOCUS
+Repository URL: https://github.com/metageni/SUPER-FOCUS
+Description:  A tool for agile functional analysis of shotgun metagenomic data

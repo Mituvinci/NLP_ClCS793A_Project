@@ -1,0 +1,4 @@
+Search Query: protein structure prediction
+Repository name: HannesStark/EquiBind
+Repository URL: https://github.com/HannesStark/EquiBind
+Description: EquiBind: geometric deep learning for fast predictions of the 3D structure in which a small molecule binds to a protein

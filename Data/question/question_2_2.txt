@@ -1,0 +1,4 @@
+Search Query: protein structure prediction
+Repository name: biolib/openprotein
+Repository URL: https://github.com/biolib/openprotein
+Description: A PyTorch framework for prediction of tertiary protein structure

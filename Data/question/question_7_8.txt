@@ -1,0 +1,4 @@
+Search Query: mass spectrometry data analysis
+Repository name: rpeckner-broad/Specter
+Repository URL: https://github.com/rpeckner-broad/Specter
+Description: Specter: linear deconvolution for targeted analysis of data-independent acquisition mass spectrometry proteomics

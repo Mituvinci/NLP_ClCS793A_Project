@@ -1,0 +1,4 @@
+Search Query: gene expression quantification
+Repository name: mikelove/asthma
+Repository URL: https://github.com/mikelove/asthma
+Description: RNA-seq quantifications: gene expression responses to human rhinovirus infection for 6 asthmatic and 6 non-asthmatic donors (SRP046226)

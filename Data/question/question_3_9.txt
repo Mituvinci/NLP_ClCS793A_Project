@@ -1,0 +1,4 @@
+Search Query: gene expression quantification
+Repository name: seifemi/regNet
+Repository URL: https://github.com/seifemi/regNet
+Description: regNet is an R package that utilizes gene expression and copy number data to learn regulatory networks for the quantification of potential impacts of individual gene expression alterations on user-defined target genes via network propagation.

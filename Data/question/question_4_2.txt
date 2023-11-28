@@ -1,0 +1,4 @@
+Search Query: biological sequence analysis
+Repository name: shaunpwilkinson/kmer
+Repository URL: https://github.com/shaunpwilkinson/kmer
+Description: K-mer Counting for Biological Sequence Analysis

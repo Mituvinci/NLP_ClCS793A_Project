@@ -1,0 +1,4 @@
+Search Query: molecular docking simulations
+Repository name: CeGRIB/DrugDesign
+Repository URL: https://github.com/CeGRIB/DrugDesign
+Description: Molecular docking, simulation and binding free energy analysis of small molecules as PfHT1 inhibitors

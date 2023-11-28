@@ -1,0 +1,4 @@
+Search Query: single-cell sequencing analysis
+Repository name: NBISweden/workshop-scRNAseq
+Repository URL: https://github.com/NBISweden/workshop-scRNAseq
+Description: Single cell RNA sequencing analysis course

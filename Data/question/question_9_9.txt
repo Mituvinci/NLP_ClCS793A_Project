@@ -1,0 +1,4 @@
+Search Query: molecular docking simulations
+Repository name: bioinfolg/mdsims
+Repository URL: https://github.com/bioinfolg/mdsims
+Description: Docking and molecular dynamics simulations for Bcl-xL protein

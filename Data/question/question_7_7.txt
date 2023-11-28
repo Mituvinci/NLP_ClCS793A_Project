@@ -1,0 +1,4 @@
+Search Query: mass spectrometry data analysis
+Repository name: fgcz/rawrr
+Repository URL: https://github.com/fgcz/rawrr
+Description: Computational analysis of raw-formatted mass spectrometry data in R. Brings your Orbitrap data to life!

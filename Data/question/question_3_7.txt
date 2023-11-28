@@ -1,0 +1,4 @@
+Search Query: gene expression quantification
+Repository name: davidaknowles/eagle
+Repository URL: https://github.com/davidaknowles/eagle
+Description: An R package for detecting Gene-by-Environment (GxE) interaction effects on the transcriptome using Allele Specific Expression quantified from RNA-seq

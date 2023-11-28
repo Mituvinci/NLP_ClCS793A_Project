@@ -1,0 +1,4 @@
+Search Query: assembly transcript RNA-seq
+Repository name: trinityrnaseq/RNASeq_Trinity_Tuxedo_Workshop
+Repository URL: https://github.com/trinityrnaseq/RNASeq_Trinity_Tuxedo_Workshop
+Description: materials for the RNA-Seq workshop on Trinity and Tuxedo, covering de novo and genome-guided transcript assembly and downstream analysis.

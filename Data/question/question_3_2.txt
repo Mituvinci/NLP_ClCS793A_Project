@@ -1,0 +1,4 @@
+Search Query: gene expression quantification
+Repository name: zaeleus/squab
+Repository URL: https://github.com/zaeleus/squab
+Description: Alignment-based gene expression quantification

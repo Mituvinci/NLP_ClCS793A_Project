@@ -1,0 +1,4 @@
+Search Query: molecular docking simulations
+Repository name: crp-mol/transaminases
+Repository URL: https://github.com/crp-mol/transaminases
+Description: Predict the ee% of omega-transaminases toward a query compound by docking and molecular dynamics simulations

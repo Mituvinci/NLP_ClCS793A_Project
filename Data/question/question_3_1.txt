@@ -1,0 +1,4 @@
+Search Query: gene expression quantification
+Repository name: deweylab/RSEM
+Repository URL: https://github.com/deweylab/RSEM
+Description: RSEM: accurate quantification of gene and isoform expression from RNA-Seq data

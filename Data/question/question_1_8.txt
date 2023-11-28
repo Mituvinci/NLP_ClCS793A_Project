@@ -1,0 +1,4 @@
+Search Query: assembly transcript RNA-seq
+Repository name: mgildea87/RNAseq_PE_HISAT2_stringtie_novel_transcripts
+Repository URL: https://github.com/mgildea87/RNAseq_PE_HISAT2_stringtie_novel_transcripts
+Description: Paired-end RNAseq data processing workflow designed for execution on the BigPurple HPC. This version enables assembly of novel transcript isoforms. Primary software used: FastQC, Fastp, HISAT2, StringTie, MultiQC

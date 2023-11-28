@@ -1,0 +1,4 @@
+Search Query: gene expression quantification
+Repository name: GabrielHoffman/variancePartition
+Repository URL: https://github.com/GabrielHoffman/variancePartition
+Description: Quantify and interpret divers of variation in multilevel gene expression experiments

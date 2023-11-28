@@ -1,0 +1,4 @@
+Search Query: molecular docking simulations
+Repository name: tony-blake/MD-Simulation
+Repository URL: https://github.com/tony-blake/MD-Simulation
+Description: A Generalised workflow for obtaining protein and peptide molecular structures, docking the peptide into the protein and running a molecular dynamic simulation over a large number of trajectories.

@@ -1,0 +1,4 @@
+Search Query: assembly transcript RNA-seq
+Repository name: gpertea/stringtie
+Repository URL: https://github.com/gpertea/stringtie
+Description: Transcript assembly and quantification for RNA-Seq

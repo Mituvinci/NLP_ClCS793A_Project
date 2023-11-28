@@ -1,0 +1,4 @@
+Search Query: assembly transcript RNA-seq
+Repository name: Kuanhao-Chao/Transcript_Quantifier_Assessment
+Repository URL: https://github.com/Kuanhao-Chao/Transcript_Quantifier_Assessment
+Description: 🩺 Assessing StringTie, Salmon, and Kallisto with simulated RNA-Seq reads with noises introduced in read- and annotation-level.

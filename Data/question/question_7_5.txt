@@ -1,0 +1,4 @@
+Search Query: mass spectrometry data analysis
+Repository name: OrgMassSpec/OrgMassSpecR
+Repository URL: https://github.com/OrgMassSpec/OrgMassSpecR
+Description: Organic/biological mass spectrometry data analysis (development version).

@@ -1,0 +1,4 @@
+Search Query: phylogenetic analysis
+Repository name: gjospin/PhyloSift
+Repository URL: https://github.com/gjospin/PhyloSift
+Description: Phylogenetic and taxonomic analysis for genomes and metagenomes

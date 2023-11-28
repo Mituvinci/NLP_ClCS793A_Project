@@ -1,0 +1,4 @@
+Search Query: single-cell sequencing analysis
+Repository name: OpenGene/scrnapip
+Repository URL: https://github.com/OpenGene/scrnapip
+Description: A Systematic and Dynamic Pipeline for Single-Cell RNA Sequencing Analysis

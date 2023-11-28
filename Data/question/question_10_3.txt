@@ -1,0 +1,4 @@
+Search Query: single-cell sequencing analysis
+Repository name: diazlab/CONICS
+Repository URL: https://github.com/diazlab/CONICS
+Description: CONICS: COpy-Number analysis In single-Cell RNA-Sequencing

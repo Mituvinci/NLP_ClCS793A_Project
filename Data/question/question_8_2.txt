@@ -1,0 +1,4 @@
+Search Query: microarray data processing
+Repository name: flo-compbio/pyaffy
+Repository URL: https://github.com/flo-compbio/pyaffy
+Description: pyAffy: Processing raw data from Affymetrix expression microarrays in Python.

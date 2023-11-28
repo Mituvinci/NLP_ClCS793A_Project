@@ -1,0 +1,4 @@
+Search Query: gene expression quantification
+Repository name: kentnf/RSQuantification
+Repository URL: https://github.com/kentnf/RSQuantification
+Description: Quantification the RNA-seq reads on gene level and perform differentially expression analysis  

@@ -1,0 +1,4 @@
+Search Query: gene expression quantification
+Repository name: bdeonovic/IDPASE.jl
+Repository URL: https://github.com/bdeonovic/IDPASE.jl
+Description: IDP-ASE: haplotyping and quantifying allele-specific expression at the gene and gene isoform level by hybrid sequencing

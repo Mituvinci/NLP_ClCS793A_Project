@@ -1,0 +1,4 @@
+Search Query: single-cell sequencing analysis
+Repository name: robertaboukhalil/ginkgo
+Repository URL: https://github.com/robertaboukhalil/ginkgo
+Description: Cloud-based single-cell copy-number variation analysis tool

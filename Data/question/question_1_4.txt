@@ -1,0 +1,4 @@
+Search Query: assembly transcript RNA-seq
+Repository name: samsa79p/RNA-seq-transcriptome-assembly
+Repository URL: https://github.com/samsa79p/RNA-seq-transcriptome-assembly
+Description: Transcriptome assembly using reference genome

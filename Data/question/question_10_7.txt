@@ -1,0 +1,4 @@
+Search Query: single-cell sequencing analysis
+Repository name: igrabski/sc-SHC
+Repository URL: https://github.com/igrabski/sc-SHC
+Description: Significance analysis for clustering single-cell RNA-sequencing data

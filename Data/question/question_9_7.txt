@@ -1,0 +1,4 @@
+Search Query: molecular docking simulations
+Repository name: Tossyn12/Computer-Aided-Drug-Discovery-repo
+Repository URL: https://github.com/Tossyn12/Computer-Aided-Drug-Discovery-repo
+Description: Chembl screening, Molecular docking analysis and Molecular dynamics simulation

@@ -1,0 +1,4 @@
+Search Query: metagenomics data analysis
+Repository name: bxlab/metaWRAP
+Repository URL: https://github.com/bxlab/metaWRAP
+Description: MetaWRAP - a flexible pipeline for genome-resolved metagenomic data analysis

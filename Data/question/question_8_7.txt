@@ -1,0 +1,4 @@
+Search Query: microarray data processing
+Repository name: EllenSebastian/microarrayQC
+Repository URL: https://github.com/EllenSebastian/microarrayQC
+Description: R tools for microarray data processing from SpotReader files.

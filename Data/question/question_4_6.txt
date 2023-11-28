@@ -1,0 +1,4 @@
+Search Query: biological sequence analysis
+Repository name: UBod/kebabs
+Repository URL: https://github.com/UBod/kebabs
+Description: R package for kernel-based analysis of biological sequences

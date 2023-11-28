@@ -1,0 +1,4 @@
+Search Query: biological sequence analysis
+Repository name: LongPham7/Biological-Sequences-Dot-Plot
+Repository URL: https://github.com/LongPham7/Biological-Sequences-Dot-Plot
+Description: Dot matrix analysis for bioinformatics

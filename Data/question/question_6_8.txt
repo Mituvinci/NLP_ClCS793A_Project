@@ -1,0 +1,4 @@
+Search Query: phylogenetic analysis
+Repository name: nickjcroucher/gubbins
+Repository URL: https://github.com/nickjcroucher/gubbins
+Description: Rapid phylogenetic analysis of large samples of recombinant bacterial whole genome sequences using Gubbins

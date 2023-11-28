@@ -1,0 +1,4 @@
+Search Query: gene expression quantification
+Repository name: NCBI-Hackathons/SimpleGeneExpression
+Repository URL: https://github.com/NCBI-Hackathons/SimpleGeneExpression
+Description: Programs to quantify expression of transcripts from public datasets

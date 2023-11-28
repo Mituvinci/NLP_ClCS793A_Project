@@ -1,0 +1,4 @@
+Search Query: assembly transcript RNA-seq
+Repository name: kumarsaurabh20/transcripts_extension
+Repository URL: https://github.com/kumarsaurabh20/transcripts_extension
+Description: Extension of partial transcripts from de-novo transcriptome assembly using RNA-Seq datasets
